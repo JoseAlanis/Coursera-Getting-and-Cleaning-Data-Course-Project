@@ -112,10 +112,3 @@ tidy_data <- ddply(all_data,
                    )
 
 #write.table(tidy_data, './new_data_tidy.txt', row.names = F, sep = '\t')
-
-
-
-
-
-
-
