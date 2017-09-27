@@ -8,7 +8,7 @@ The Repo contains the subsequent files:
 
 - `README.md`, it provides generall infomration on the Repo and it's purpose.
 - `new_data_tidy.txt`, tidy data set in tabular structure.
-- `CodeBook.md`, a file descriving the values, variables and transformations perfomed to generate the data comprised in `new_data_tidy.txt`.
+- `CodeBook.md`, a file describing the values, variables and transformations perfomed to generate the data comprised in `new_data_tidy.txt`.
 - `run_analysis.R`, R-Code used to create a tidy version of the data.
 
 ## What was the course project about?
