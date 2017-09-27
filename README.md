@@ -17,4 +17,4 @@ The purpose of the course project is to demonstrate one's ability to collect, wo
 
 ## What's the nature of the data used in the course project?
 
-Data was collected from accelerometers of Samsung Galaxy S smartphones. The original data set was built from recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors (detailed informarmation can be found at [UCI's Machine Learing Repository Site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), where the data was obtained.
+Data was collected from accelerometers of Samsung Galaxy S smartphones. The original data set was built from recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors (detailed informarmation can be found at [UCI's Machine Learing Repository Site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), where the data was obtaine).
