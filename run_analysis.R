@@ -1,6 +1,6 @@
 #####                   run_analysis.R 
 #####       for Coursera Getting and Cleaning Data
-#####                   Course project
+#####                   Course Project
 
 
 # load nessesary packages
