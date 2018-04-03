@@ -4,7 +4,7 @@ This is a Repo for the submission of the course project for Coursera's Getting a
 
 ## What's in this Repo?
 
-The Repo contains the subsequent files:
+The Repo contains the following files:
 
 - `README.md`, it provides generall infomration on the Repo and it's purpose.
 - `new_data_tidy.txt`, tidy data set in tabular structure.
@@ -13,7 +13,7 @@ The Repo contains the subsequent files:
 
 ## What was the course project about?
 
-The purpose of the course project is to demonstrate one's ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+The purpose of the course project was to demonstrate one's ability to collect, work with, and clean a data set. The goal was also to prepare tidy data that can be used for later analysis.
 
 ## What's the nature of the data used in the course project?
 
@@ -24,8 +24,8 @@ Data was collected from accelerometers of Samsung Galaxy S smartphones. The orig
 
 The code comprised in `run_analysis.R` can be used to:
 
-- Dowloading and unzing the original data set from UCI's Machine Learing Repository.
-- Merge the training and the test sets to create one data set.
+- Dowloading and unziping the original data set from UCI's Machine Learing Repository.
+- Merge the training and the test data sets to create one data set.
 - Extract only the measurements on the mean and standard deviation for each measurement.
 - Use descriptive activity names to name the activities in the data set.
 - Appropriately label the data set with descriptive variable names.
